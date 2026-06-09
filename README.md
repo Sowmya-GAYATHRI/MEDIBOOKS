@@ -5,7 +5,9 @@ MediBook is a full-stack appointment booking application connecting patients wit
 
 Tech Stack
 Backend: Node.js, Express, MongoDB
+
 Frontend: React, Vite, TailwindCSS
+
 Docs: /docs (System Design, Testing Report)
 Folder Structure
 /backend - API Server
@@ -23,9 +25,7 @@ npm start (Runs on port 3000)
 Frontend
 cd frontend
 npm install
-Create .env and set VITE_API_URL=http://localhost:3000 (or your backend URL)
-npm run dev (Runs on port 5173)
-Deployment
+
 Backend: Deploy to any Node.js host (Render, Railway). Set MONGODB_URI.
 Frontend: Run npm run build in /frontend. Serve the /dist folder statically (Vercel, Netlify).
 Demo Credentials
