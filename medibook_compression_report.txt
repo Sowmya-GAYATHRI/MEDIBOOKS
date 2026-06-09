@@ -1,0 +1,4 @@
+Original ZIP size: 99.99 MB
+Uncompressed content size: 349.38 MB
+
+The uploaded file is already a compressed ZIP archive. Reducing it to 20 MB without removing content is not realistically achievable through normal recompression alone.
